@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "name": "Jay Lanfianbert Lapian",
+    "title": "Front-end Developer",
+    "location": "Makassar, Indonesia",
+    "about": "Saya seorang front-end developer yang berfokus pada React, Vite, dan TailwindCSS. Berpengalaman membuat UI yang responsive dan komponen reusable.",
+    "email": "jay@example.com",
+    "phone": "+62 812-3456-7890",
+    "avatarUrl": "/avatar.jpg",
+    "social": {
+      "github": "https://github.com/jay",
+      "linkedin": "https://www.linkedin.com/in/jay/"
+    }
+  },
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Front-end Intern",
+      "company": "Acme Corp",
+      "period": "2024 - 2025",
+      "desc": "Membangun dashboard internal menggunakan React dan Tailwind."
+    },
+    {
+      "id": 2,
+      "role": "Freelance Web Dev",
+      "company": "Various",
+      "period": "2022 - 2024",
+      "desc": "Mengerjakan landing page dan website bisnis kecil."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "desc": "Website portofolio pribadi menggunakan Vite + React + Tailwind.",
+      "link": "https://example.com"
+    },
+    {
+      "id": 2,
+      "title": "Booking App UI",
+      "desc": "Prototype UI untuk aplikasi booking lapangan olahraga.",
+      "link": ""
+    }
+  ]
+}
